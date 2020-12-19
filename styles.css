@@ -46,6 +46,15 @@ header li a{
         box-shadow: 0 0 10px rgb( rgb(92, 92, 196));
         
      }
-     
+     h2,h3
+ {
+  margin-bottom: 0.5rem;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+ 
+}
+
+
      
   
