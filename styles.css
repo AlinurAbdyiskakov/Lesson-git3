@@ -52,8 +52,16 @@ header li a{
   font-family: 'Quicksand', sans-serif;
   font-weight: 500;
   line-height: 1.2;
- 
 }
+
+main .my1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    text-align: center;
+    margin-top: 70px;
+  }
+
 
 
      
