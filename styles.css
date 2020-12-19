@@ -61,7 +61,18 @@ main .my1 {
     text-align: center;
     margin-top: 70px;
   }
-
+  .Example-3 main p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 750px;
+ margin-top: 10px;
+ font-family: 'Quicksand', sans-serif;
+ line-height: 30px;
+ font-weight: 300px;
+ font-size: 20px;
+}
 
 
      
