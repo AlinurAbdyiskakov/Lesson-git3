@@ -30,3 +30,12 @@ header li a{
     color:  black;
     font-family: 'Quicksand', sans-serif;
     }
+    .Example-1 li a{
+        text-decoration: none;
+        border-radius: 5px;
+        border: 1px solid blue;
+        margin: -10px 2px;
+        padding: 8px 13px;
+        color: blue;
+    }
+    
