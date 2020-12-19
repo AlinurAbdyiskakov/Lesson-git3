@@ -9,3 +9,9 @@ header nav{
 
 
 }
+header nav ul{
+    display: flex;
+    flex-direction: row;
+   
+margin-right: 30px;
+}
