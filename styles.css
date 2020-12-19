@@ -80,6 +80,16 @@ section {
   margin-top: 40px;
     
   }
+  section article {
+    height: 320px;
+    flex: 1 1 calc(33.33% - 20px);
+    margin: 0 10px 25px;
+    border :solid 1px gainsboro;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.5px);
+    
+  }
+ 
 
 
      
