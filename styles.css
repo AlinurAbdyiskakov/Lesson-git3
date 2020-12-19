@@ -98,6 +98,12 @@ section {
   span{
     color: rgb(77, 72, 72);
   }
+  .Example-4{
+    display: flex;
+    flex-flow: column wrap;
+    
+}
+
 
 
 
