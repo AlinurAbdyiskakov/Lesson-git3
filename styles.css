@@ -1,0 +1,11 @@
+*{
+  
+    margin: 0 auto;
+}
+header nav{
+    display: flex;
+ justify-content: space-around;
+ margin-top: -25px;
+
+
+}
