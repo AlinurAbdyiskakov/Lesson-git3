@@ -89,6 +89,12 @@ section {
     box-shadow: rgba(0, 0, 0, 0.5px);
     
   }
+  section article .am1,
+  section article h1
+   {
+       padding: 16px 16px;
+    text-align: center;
+  }
  
 
 
