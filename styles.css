@@ -115,6 +115,12 @@ section {
 font-size: 20px;
 
 }
+.sitis:hover{
+    background-color: blue;
+    color: #ffffff;
+    border: none;
+    transition: 0.15s;
+}
 
 
 
