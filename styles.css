@@ -25,3 +25,8 @@ margin-right: 30px;
     color: black;
     font-family: 'Quicksand', sans-serif;
 }
+header li a{
+    margin: 10px;
+    color:  black;
+    font-family: 'Quicksand', sans-serif;
+    }
