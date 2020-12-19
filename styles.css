@@ -168,6 +168,61 @@ font-size: 20px;
     .footer1 {
         width: 25px;height: 20px;
     }
+    @media(max-width:605px){
+        h3{
+        text-align: center;
+        }
+        .Example-2{
+          margin-top: 70px;
+          
+        }
+        
+        ul{
+            margin-top: 30px;
+            margin-left:20px ;
+        }
+         ul .Example-1 {
+           position: absolute;
+           left:200px;top: 110px;
+        }
+        .flex1{
+          position: absolute;
+          margin-top: 10px;
+          margin-left: 90px;
+           }
+           .flex2{
+             position: absolute;
+             margin-top: 390px;
+             margin-left: 90px;
+           }
+           .flex3{
+             position: absolute;
+          margin-top: 730px;
+          margin-left: 90px;
+           }
+           hr{
+             margin-top: 1100px;
+           }
+         
+        }
+        @media(max-width:670px){
+          footer {
+            display: flex;
+            flex-direction: column;
+            position: absolute;
+           
+            margin-left: -50px;
+          }
+          footer .open{
+            position: absolute;
+            left: 200px;top: 50px;
+            
+          }
+          footer .i{
+            position: absolute;
+            margin-top: 220px;
+          }
+        }
 
 
 
