@@ -103,6 +103,19 @@ section {
     flex-flow: column wrap;
     
 }
+.sitis{
+    line-height: 30px;
+  outline: none;
+  border: 1px solid rgb(56, 56, 216);
+  color: blue;
+  width: 240px;
+  border-radius: 5px;
+  padding: 8px 16px;
+  margin: 0px 20px 10px 40px;
+font-size: 20px;
+
+}
+
 
 
 
