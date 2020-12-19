@@ -124,7 +124,18 @@ font-size: 20px;
 .siti:hover{
     background-color: blue;
 }
-
+.siti{
+    background-color: rgb(23, 23, 167);
+    border: none;
+    color: #ffffff;
+    width: 240px;
+    border-radius:5px;
+    padding: 8px 16px;
+    line-height: 30px;
+      margin: 0 20px 20px 40px;
+      font-size: 20px;
+    }
+ 
 
 
 
