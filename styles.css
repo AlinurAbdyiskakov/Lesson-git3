@@ -42,4 +42,10 @@ header li a{
         background-color: blue;
         color: #ffffff;
     }
-   
+    .Example-1 li a:active{
+        box-shadow: 0 0 10px rgb( rgb(92, 92, 196));
+        
+     }
+     
+     
+  
